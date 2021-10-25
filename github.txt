@@ -1,0 +1,4 @@
+
+git remote add origin https://github.com/tekel90/JavaScript-Moderno-FH.git
+git branch -M main
+git push -u origin main
